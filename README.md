@@ -16,8 +16,7 @@ luccasms4@gmail.com
 
 ## 📂 Projetos em destaque
 
-🔹 [Projeto X](https://github.com/luccasmsm/aula-ergonomia) – Área de login personalizada HTML CSS  
-🔹 [Projeto Y](https://github.com/luccasmsm/aula-ergonomia2) – Site de skincare GlowUp  
+🔹 [Projeto](https://github.com/luccasmsm/aula-ergonomia2) – Site de skincare GlowUp  
 
   
   
